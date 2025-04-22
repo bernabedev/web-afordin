@@ -10,6 +10,42 @@
   --text-hero-paragraph--line-height: 1.2;
 
   --color-primary: #100e14;
+
+  /* FONTSIZES */
+  --text-7xl: 3.5rem; /* 56px */
+  --text-7xl--line-height: 3.5rem; /* 56px */
+
+  --text-6xl: 2.5rem; /* 40px */
+  --text-6xl--line-height: 2.5rem; /* 40px */
+
+  --text-5xl: 2.25rem; /* 36px */
+  --text-5xl--line-height: 2.25rem; /* 36px */
+
+  --text-4xl: 2rem; /* 32px */
+  --text-4xl--line-height: 2.5rem; /* 40px */
+
+  --text-2xl: 1.25rem; /* 20px */
+  --text-2xl--line-height: 1.75rem; /* 28px */
+
+  --text-hero: 1.5rem; /* 24px */
+  --text-hero--line-height: 2.25rem; /* 36px */
+
+  --text-3xl: 1.5rem; /* 24px */
+  --text-3xl--line-height: 2.25rem; /* 36px */
+
+  --text-xl: 1.125rem; /* 18px */
+  --text-xl--line-height: 1.5rem; /* 24px */
+
+  --text-base: 1rem; /* 16px */
+  --text-base--line-height: 1.5rem; /* 24px */
+
+  --text-sm: 0.875rem; /* 14px */
+  --text-sm--line-height: 1.25rem; /* 20px */
+  --text-sm--letter-spacing: -0.0125rem; /* -0.2px */
+
+  --text-button-lg: 1rem;
+
+  --text-button-lg--font-weight: 500;
 }
 
 @keyframes scroll-up {
