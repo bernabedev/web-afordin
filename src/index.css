@@ -56,6 +56,8 @@
   --text-button-lg: 1rem; /* 16px */
   --text-button-lg--line-height: 1.5rem; /* 24px */
   --text-button-lg--font-weight: 500;
+
+  --color-light-secondary: #eeeeee;
 }
 
 @keyframes scroll-up {
